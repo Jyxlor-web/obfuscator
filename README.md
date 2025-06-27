@@ -1,18 +1,18 @@
 
 
-🔐 Python AES Şifreleyici – Jyxlor Encrypter Tool 📜
+**🔐 Python AES Şifreleyici – Jyxlor Encrypter Tool 📜**
 
-Geliştirici: @Jyxlorzirve amacı: Eğitim ve kaynak kod gizleme
+** Geliştirici: @Jyxlorzirve amacı: Eğitim ve kaynak kod gizleme **
 
-🎯 Ne İşe Yarar?
+** 🎯 Ne İşe Yarar? **
 
-Bu araç sayesinde bir .py dosyasını:
+**Bu araç sayesinde bir .py dosyasını:**
 
-AES-256-CBC algoritması ile şifreler 🔒
+**AES-256-CBC algoritması ile şifreler 🔒**
 
-Base64 ile encode eder 📦
+**Base64 ile encode eder** 📦
 
-Şifreli dosya çalıştırıldığında orijinal kodu RAM'de çözüp exec() ile çalıştırır 🧠
+**Şifreli dosya çalıştırıldığında orijinal kodu RAM'de çözüp exec() ile çalıştırır** 🧠
 
 Kodun içinde şifreli olarak saklanır, düz metin olarak görünmez. Böylece:
 
@@ -32,7 +32,7 @@ Kodlar ters mühendislikten korunmuş olur
 
 ✅ Şifreli dosya tek başına çalıştırılabilir
 
-📦 Gerekli Kütüphaneler:
+📦 Gerekli Kütüphaneler: 
 
 pycryptodome
 
@@ -50,7 +50,7 @@ Yoksa otomatik kurar:
 
 🛡️ Uyarı:
 
-Bu script sadece eğitim ve güvenli kod paylaşımı içindir. Zararlı amaçlarla kullanılması yasaktır ve etik değildir. Sorumluluk kullanıcıya aittir.
+**Bu script sadece eğitim ve güvenli kod paylaşımı içindir. Zararlı amaçlarla kullanılması yasaktır ve etik değildir. Sorumluluk kullanıcıya aittir.**
 
 📎 Kanal:
 
