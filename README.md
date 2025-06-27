@@ -51,6 +51,7 @@ Yoksa Otomatik Kurar:
  ```git clone https://github.com/Jyxlor-web/obfuscator.git```
 ```cd obfuscator```
 ```python3 obfuscator.py```
+**Tool Şifresi:** ```uhwauHUIWUIHFAUWIOFNHIOWAH```
 
 
 🚀 Kullanım:
