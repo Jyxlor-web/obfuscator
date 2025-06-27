@@ -48,6 +48,8 @@ Yoksa Otomatik Kurar:
 ```bash pip install pycryptodome colorama ```
 
 **Kurulum:**
+
+
  ```git clone https://github.com/Jyxlor-web/obfuscator.git```
 
 
