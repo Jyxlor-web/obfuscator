@@ -1,5 +1,5 @@
       
-                  MADE BY J Y X L O R 
+MADE BY J Y X L O R 
                                                                                                                                   
 
                                                                                                                                   
